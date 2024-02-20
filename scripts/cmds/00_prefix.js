@@ -17,19 +17,13 @@ module.exports = {
  body: `
 
 
-██╗░░░██╗░█████╗░███████╗
-╚██╗░██╔╝██╔══██╗╚════██║
-░╚████╔╝░███████║░░███╔═╝
-░░╚██╔╝░░██╔══██║██╔══╝░░
-░░░██║░░░██║░░██║███████╗
-░░░╚═╝░░░╚═╝░░╚═╝╚══════╝
-
+ATHENA AI
 ━━━━━━━━━━━━━━━
 
 Hello! It look's like you're not familiar with my prefix!, here's a guide, use this :➡
 
-👑 SYSTEM PREFIX:➡【 & 】
-🐰 BOX CHAT PREFIX:➡ 【 & 】
+👑 SYSTEM PREFIX:➡【 * 】
+🐰 BOX CHAT PREFIX:➡ 【 * 】
 
 📌 𝗛𝗢𝗪 𝗧𝗢 𝗨𝗦𝗘
 hiro ʜᴏᴡ ᴛᴏ ᴍᴀᴋᴇ ᴄᴀᴋᴇ
